@@ -1,5 +1,5 @@
 # Web-Mapping
-Interactive Mapping of Population, Volcanoes, and Personal Locations
+Interactive Mapping of Population, Volcanoes, and Personal Locations.
 This is a simple Python code that uses 2 libraries: Folium and Pandas
 Make sure to have them already installed using:
 
