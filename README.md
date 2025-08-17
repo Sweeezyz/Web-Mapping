@@ -4,6 +4,7 @@ This is a simple Python code that uses 2 libraries: Folium and Pandas
 Make sure to have them already installed using:
 
 Folium: pip install folium
+
 Pandas: pip install pandas
 
 Once complete, download the Volcanoes.txt file, and work your way around the code
